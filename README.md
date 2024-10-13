@@ -1,2 +1,2 @@
-# cpp-program
+# c-program
 practice work
